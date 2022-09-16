@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 [Paddle Framework Contributor Club (PFCC)](https://github.com/PaddlePaddle/community/tree/master/pfcc) 是一个有兴趣、正在、或者已经为 [飞桨开源框架](https://github.com/PaddlePaddle/Paddle/) 做开源贡献的贡献者成立的虚拟组织，十分欢迎各位开发者积极参与飞桨框架的共建，与飞桨共同成长，一起执桨破浪，具体角色分工可参考 [飞桨框架代码仓库的角色及权限介绍](https://github.com/PaddlePaddle/community/blob/master/contributors/community-membership.md)。
 
+#### 你将获得
+- 技术提升：学习行业内的新动态新方向，让自己的技术实力得以提升；发挥参与开源项目的热情，在 PFCC 例会分享；作为一个感兴趣方向的主导者，带领团队完成一整块工作；获得和飞桨团队沟通协作的机会，和飞桨共同成长。
+- 荣誉奖励：提供开源贡献证书、社区曝光度、奖状徽章等；有机会成为飞桨社区管理者，参与维护一个大型开源项目；丰富个人经历、获得内推机会。
+- 硬件支持：提供线上 V100 开发环境，随时可以开发与编译。
+
 #### 如何加入
 如果你想加入 PFCC，可以提交 PR 至 [Paddle](https://github.com/PaddlePaddle/Paddle)，代码合入后，我们会邀请你加入 PFCC。你可以选择你感兴趣的内容提交 PR，也可以根据下面提供的方向（持续更新）进行开发并提交 PR，我们非常欢迎你参与到飞桨框架的开发中。
 - [【PFCC-Roadmap】总览](https://github.com/PaddlePaddle/Paddle/issues/42571)
