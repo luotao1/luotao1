@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 #### 联系我们
 1. 如果你对 PFCC 有任何建议，可以通过邮件（[ext_paddle_oss@baidu.com](mailto:ext_paddle_oss@baidu.com)）联系我们。
 2. 如果你在框架开发过程中遇到任何问题，可以通过在 GitHub 上提交 Issue 寻求我们的协助。
+3. 如果你还未完成PR，可以先加运营同学的企业微信，她会拉你进入交流群。
+<img width="166" alt="image" src="https://user-images.githubusercontent.com/6836917/195274459-1a47c60b-c73e-4d0a-b38b-70d844799d05.png">
