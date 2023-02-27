@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 #### 如何加入
 如果你想加入 PFCC，可以提交 PR 至 [Paddle](https://github.com/PaddlePaddle/Paddle)，代码合入后，我们会邀请你加入 PFCC。你可以选择你感兴趣的内容提交 PR，也可以根据下面提供的方向（持续更新）进行开发并提交 PR，我们非常欢迎你参与到飞桨框架的开发中。
 - [【社区活动】🎁飞桨快乐开源活动](https://github.com/PaddlePaddle/Paddle/issues/48019)
-- [【good first issue】]([https://github.com/PaddlePaddle/Paddle/labels/PR%20is%20welcome](https://github.com/PaddlePaddle/community/tree/master/pfcc#good-first-issue))
-- [【PFCC】call-for-contributions](https://github.com/PaddlePaddle/community/tree/master/pfcc/call-for-contributions)
+- [【PFCC】call-for-contributions](https://github.com/PaddlePaddle/community/tree/master/pfcc/call-for-contributions) 开发者联合项目
+- [【good first issue】](https://github.com/PaddlePaddle/community/tree/master/pfcc#good-first-issue) 通常是一些小功能的开发、bug 的修复或之前开发者未完成的功能
 
 关于框架开发的具体流程和细节，可以参考飞桨官网提供的 [贡献指南](https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/dev_guides/index_cn.html)，其中代码贡献流程对 GitHub 的使用进行了手把手教学，帮助大家开启开源社区成长的第一步~
 
