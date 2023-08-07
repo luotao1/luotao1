@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### 如何加入
 如果你想加入 PFCC，可以提交 PR 至 [Paddle](https://github.com/PaddlePaddle/Paddle)，代码合入后，我们会邀请你加入 PFCC。你可以选择你感兴趣的内容提交 PR，也可以根据下面提供的方向（持续更新）进行开发并提交 PR，我们非常欢迎你参与到飞桨框架的开发中。以下是从易到难的社区活动：
-- [【热身打卡：开发框架，从编译 paddle 开始】](https://www.paddlepaddle.org.cn/contributionguide?docPath=hackathon_warming_up_cn) 小试牛刀！不仅能让你以最快速度上手框架开发，成功打卡还有礼品送出哦
+- [【热身打卡：开发框架，从编译 paddle 开始】](https://github.com/PaddlePaddle/Paddle/issues/45347) 小试牛刀！不仅能让你以最快速度上手框架开发，成功打卡还有礼品送出哦
 - [【飞桨快乐开源活动】](https://github.com/PaddlePaddle/Paddle/issues/48019) 长期活动，中低阶难度的命题任务，任务非常明确和具体，超多礼物
 - [【good first issue】](https://github.com/PaddlePaddle/community/tree/master/pfcc#good-first-issue) 长期活动，通常是一些小功能的开发、bug 的修复或之前开发者未完成的功能
 - [【飞桨黑客松第四期任务总览】](https://github.com/PaddlePaddle/Paddle/issues/51281) 2023/02/20 - 2023/05/20，中高阶难度的命题任务，100w 现金池
