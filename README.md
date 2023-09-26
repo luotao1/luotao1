@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - [【good first issue】](https://github.com/PaddlePaddle/community/tree/master/pfcc#good-first-issue) 长期活动，通常是一些小功能的开发、bug 的修复或之前开发者未完成的功能
 - [【中国软件开源创新大赛：飞桨框架任务挑战赛】](https://github.com/PaddlePaddle/Paddle/issues/55663) 2023/04/23 - 2023/10/31，欢迎组队参加
 - [【开源之夏：飞桨赛道】](https://summer-ospp.ac.cn/org/orgdetail/ba9ed81f-5898-465f-be22-070901bb17a0?lang=zh) 和  [【GLCC 夏令营：飞桨赛道】](https://www.gitlink.org.cn/PaddlPaddle/PaddlePaddle/issues) 2023/04/29 - 2023/10/31
+- [【黑客松第5期：开源贡献个人挑战赛】](https://github.com/PaddlePaddle/Paddle/issues/57262) 和 [【飞桨护航计划集训营】](https://github.com/PaddlePaddle/Paddle/issues/57264) 2023/09/13 - 2023/12/22
 - [【PFCC】call-for-contributions](https://github.com/PaddlePaddle/community/tree/master/pfcc/call-for-contributions) 开发者联合项目
 
 关于框架开发的具体流程和细节，可以参考飞桨官网提供的 [贡献指南](https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/dev_guides/index_cn.html)，其中代码贡献流程对 GitHub 的使用进行了手把手教学，帮助大家开启开源社区成长的第一步~
