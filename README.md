@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 - [【热身打卡：开发框架，从编译 paddle 开始】](https://github.com/PaddlePaddle/Paddle/issues/45347) 小试牛刀！不仅能让你以最快速度上手框架开发，成功打卡还有礼品送出哦
 - [【飞桨快乐开源活动】](https://github.com/PaddlePaddle/Paddle/issues/56689) 长期活动，中低阶难度的命题任务，任务非常明确和具体，超多礼物
 - [【good first issue】](https://github.com/PaddlePaddle/community/tree/master/pfcc#good-first-issue) 长期活动，通常是一些小功能的开发、bug 的修复或之前开发者未完成的功能
-- [【中国软件开源创新大赛：飞桨框架任务挑战赛】](https://github.com/PaddlePaddle/Paddle/issues/55663) 2023/04/23 - 2023/10/31，欢迎组队参加
-- [【开源之夏：飞桨赛道】](https://summer-ospp.ac.cn/org/orgdetail/ba9ed81f-5898-465f-be22-070901bb17a0?lang=zh) 和  [【GLCC 夏令营：飞桨赛道】](https://www.gitlink.org.cn/PaddlPaddle/PaddlePaddle/issues) 2023/04/29 - 2023/10/31
+- [【飞桨启航计划集训营】](https://github.com/PaddlePaddle/Paddle/issues/58497) 2023/11/01 - 2024/01/19 集训内容为完成 【快乐开源项目】，合入1个 PR 即满足结营条件，相对轻松愉快。能让没接触过飞桨的你，快速上手飞桨开源活动。
 - [【黑客松第5期：开源贡献个人挑战赛】](https://github.com/PaddlePaddle/Paddle/issues/57262) 和 [【飞桨护航计划集训营】](https://github.com/PaddlePaddle/Paddle/issues/57264) 2023/09/13 - 2023/12/22
 - [【PFCC】call-for-contributions](https://github.com/PaddlePaddle/community/tree/master/pfcc/call-for-contributions) 开发者联合项目
 
