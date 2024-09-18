@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 如果你想加入 PFCC，可以提交 PR 至 [Paddle](https://github.com/PaddlePaddle/Paddle)，代码合入后，我们会邀请你加入 PFCC。你可以选择你感兴趣的内容提交 PR，也可以根据下面提供的方向（持续更新）进行开发并提交 PR，我们非常欢迎你参与到飞桨框架的开发中。以下是从易到难的社区活动：
 - [【飞桨快乐开源活动】](https://github.com/PaddlePaddle/Paddle/issues/56689) 长期活动，中低阶难度的命题任务，任务非常明确和具体，超多礼物
 - [【HACKATHON 预备营】飞桨启航计划集训营（第三期）](https://github.com/PaddlePaddle/Paddle/issues/65279) 合入1个 PR 即满足结营条件，相对轻松愉快。能让没接触过飞桨的你，快速上手
-- [【HACKATHON 7th Code Camp】黑客松护航计划集训营](https://github.com/PaddlePaddle/Paddle/issues/65285) 开源实习项目，2024/07/08 - 2024/10/08
+- [【Hackathon 7th Overview】第七期飞桨黑客松活动总览](https://github.com/PaddlePaddle/Paddle/issues/68242) 沿用三条深受广大开发者喜爱的赛道：开源贡献个人挑战赛、飞桨护航计划集训营、Fundable Projects。2024/07/08 - 2024/12/31
 - [【PFCC】call-for-contributions](https://github.com/PaddlePaddle/community/tree/master/pfcc/call-for-contributions) 开发者联合项目
 
 关于框架开发的具体流程和细节，可以参考飞桨官网提供的 [贡献指南](https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/dev_guides/index_cn.html)，其中代码贡献流程对 GitHub 的使用进行了手把手教学，帮助大家开启开源社区成长的第一步~
