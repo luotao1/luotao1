@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 #### 如何加入
 如果你想加入 PFCC，可以提交 PR 至 [Paddle](https://github.com/PaddlePaddle/Paddle)，代码合入后，我们会邀请你加入 PFCC。你可以选择你感兴趣的内容提交 PR，也可以根据下面提供的方向（持续更新）进行开发并提交 PR，我们非常欢迎你参与到飞桨框架的开发中。以下是从易到难的社区活动：
+- [飞桨 GraphNet 共创计划](https://github.com/PaddlePaddle/Paddle/issues/74368 ) 一起构建一个服务于下一代 AI 编译器的庞大计算图数据集
+- [直通乌镇全球互联网大赛：开源竞技挑战赛](https://www.taiyi.top/competition-details?id=685df91a40306049cff28ee4) 本赛的奖金，可与飞桨启航计划集训营的奖品、飞桨黑客松活动的奖金等，累加获得
 - [飞桨开源夏季个人挑战赛 🏖️](https://github.com/PaddlePaddle/Paddle/issues/72793) 完成2个任务以上（含2个）可获得百度实习面试机会 
 - [【HACKATHON 预备营】飞桨启航计划集训营（第五期）](https://github.com/PaddlePaddle/Paddle/issues/71491) 合入1个 PR 即满足结营条件，相对轻松愉快。能让没接触过飞桨的你，快速上手
 - [【Hackathon 8th Overview】第八期飞桨黑客松活动总览](https://github.com/PaddlePaddle/Paddle/issues/71315) 沿用三条深受广大开发者喜爱的赛道：开源贡献个人挑战赛、飞桨护航计划集训营、Fundable Projects。2025/01/10 - 2025/06/20
