@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 
 关于框架开发的具体流程和细节，可以参考飞桨官网提供的 [贡献指南](https://www.paddlepaddle.org.cn/documentation/docs/zh/develop/dev_guides/index_cn.html)，其中代码贡献流程对 GitHub 的使用进行了手把手教学，帮助大家开启开源社区成长的第一步~
 
+#### 招聘&实习（职位关键字：飞桨）
+- 百度社会招聘：https://talent.baidu.com/jobs/social-list
+- 百度校园招聘（含实习生）：https://talent.baidu.com/jobs/campus 内推码 IZKC18
+- 欢迎通过邮箱 [ext_paddle_oss@baidu.com](mailto:ext_paddle_oss@baidu.com) 投递简历，获取内推机会。
+- 急招岗位见：
 
 #### 联系我们
 1. 如果你对 PFCC 有任何建议，可以通过邮件（[ext_paddle_oss@baidu.com](mailto:ext_paddle_oss@baidu.com)）联系我们。
