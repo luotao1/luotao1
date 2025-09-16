@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 #### 招聘&实习（职位关键字：飞桨）
 - 百度社会招聘：https://talent.baidu.com/jobs/social-list
 - 百度校园招聘（含实习生）：https://talent.baidu.com/jobs/campus 内推码 IZKC18
-- 欢迎通过邮箱 [ext_paddle_oss@baidu.com](mailto:ext_paddle_oss@baidu.com) 投递简历，获取内推机会。
-- 急招岗位见：
+- 欢迎通过邮箱 ext_paddle_oss@baidu.com 投递简历获取内推，急招岗位详见：https://github.com/luotao1/luotao1/blob/main/JD.md
 
 #### 联系我们
 1. 如果你对 PFCC 有任何建议，可以通过邮件（[ext_paddle_oss@baidu.com](mailto:ext_paddle_oss@baidu.com)）联系我们。
