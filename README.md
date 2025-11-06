@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 3. 如果你还未完成PR，可以先加运营同学的企业微信，她会拉你进入交流群。
    
 <img width="224" alt="image" src="https://github.com/luotao1/luotao1/assets/6836917/69268192-dade-4dd8-98c1-1dfee45e5014">
-<img width="192" alt="029867a2cdc15c9d2058519e74f2f4b1" src="https://github.com/user-attachments/assets/ed444657-f345-4546-bb85-5d5c051b2b38">
+<img width="192" alt="dfc3c38e91124e863ddc23a73f432643" src="https://github.com/user-attachments/assets/43715c1a-3c1b-4f8a-84e8-6beec29d94b5">
