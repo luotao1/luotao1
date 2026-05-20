@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### 如何加入
 如果你想加入 PFCC，可以提交 PR 至 [Paddle](https://github.com/PaddlePaddle/Paddle)，代码合入后，我们会邀请你加入 PFCC。你可以选择你感兴趣的内容提交 PR，也可以根据下面提供的方向（持续更新）进行开发并提交 PR，我们非常欢迎你参与到飞桨框架的开发中。以下是从易到难的社区活动：
 - [【HACKATHON 预备营】飞桨启航计划集训营（马年新春版）](https://github.com/PaddlePaddle/Paddle/issues/77510) 合入1个 PR 即满足结营条件，相对轻松愉快。能让没接触过飞桨的你，快速上手
-- [【Hackathon 10th Overview】第九期飞桨黑客松活动总览](https://github.com/PaddlePaddle/Paddle/issues/78292) 沿用三条深受广大开发者喜爱的赛道：开源贡献个人挑战赛、飞桨护航计划集训营、Fundable Projects。同时，新增文心三大特色赛道：
+- [【Hackathon 10th Overview】第十期飞桨黑客松活动总览](https://github.com/PaddlePaddle/Paddle/issues/78292) 沿用三条深受广大开发者喜爱的赛道：开源贡献个人挑战赛、飞桨护航计划集训营、Fundable Projects。同时，新增文心三大特色赛道：
   - [PaddleOCR+ERNIE 应用创新赛道](PaddlePaddle/Paddle#78325)：使用 PaddleOCR + ERNIE 结合热门开源技术（LangChain、OpenClaw、Dify、RAGFlow 等），在 Vibe Coding 时代创造并开源高价值的创新应用，每人独立在 4~8 周内完成一个产品；
   - [文心合作伙伴赛道](PaddlePaddle/Paddle#78485)：联合近 20 家合作伙伴共建 AI 开源生态，设置打卡任务与进阶任务两条赛道，打卡即可获得周边奖励，完成打卡评审后可认领进阶任务赢取奖金；
   - [PaddleOCR 全球衍生模型挑战赛](PaddlePaddle/PaddleOCR#17858)：基于 PaddleOCR-VL 系列模型，聚焦长尾 OCR 场景，自定义赛题方向，通过模型微调构建衍生模型，总奖金 7 万元； 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 #### 招聘&实习（职位关键字：飞桨）
 - 百度社会招聘：https://talent.baidu.com/jobs/social-list
 - 百度校园招聘（含实习生）：https://talent.baidu.com/jobs/campus 内推码 IZKC18
-- 欢迎通过邮箱 ext_paddle_oss@baidu.com 投递简历获取内推，急招岗位详见：https://github.com/PaddlePaddle/Paddle/issues/77190
+- 欢迎通过邮箱 ext_paddle_oss@baidu.com 投递简历获取内推
 
 #### 联系我们
 1. 如果你对 PFCC 有任何建议，可以通过邮件（[ext_paddle_oss@baidu.com](mailto:ext_paddle_oss@baidu.com)）联系我们。
