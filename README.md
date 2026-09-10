@@ -44,11 +44,9 @@ C++ · Python · CUDA · CPU/GPU Architecture · AI Framework · CI/CD
 
 # 工作经历
 
-## 百度
+**百度资深研发工程师 / 技术项目负责人 · 2015–2026**
 
-**资深研发工程师 / 技术项目负责人 · 2015–2026**
-
-### 01 · 从底层性能优化到 AI Infrastructure
+## 01 · 从底层性能优化到 AI Infrastructure
 
 长期负责 AI Framework、Inference Engine 与底层计算性能优化，覆盖 CPU/GPU、Operator、Runtime、Graph 与多硬件适配。
 
@@ -57,9 +55,7 @@ C++ · Python · CUDA · CPU/GPU Architecture · AI Framework · CI/CD
 - 深度参与 MKL / MKL-DNN 集成及指令级性能优化
 - 建设 Runtime Cache、CPU/GPU Heterogeneous Computing 优化与核心 Operator 调优
 
-`CPU/GPU · SIMD · GEMM · Operator · Kernel · Runtime · Graph Optimization · Inference`
-
-### 02 · 跨组织技术协作：Intel × Paddle
+## 02 · 跨组织技术协作：Intel × Paddle
 
 负责 Intel × Paddle 跨组织技术合作，在无直接汇报关系的情况下推动中美多个技术团队协同。
 
@@ -71,7 +67,7 @@ C++ · Python · CUDA · CPU/GPU Architecture · AI Framework · CI/CD
 
 > 理解不同团队的目标 → 找到技术共同点 → 建立协作机制 → 推动项目真正落地。
 
-### 03 · AI Engineering Infrastructure / CI/CD
+## 03 · AI Engineering Infrastructure / CI/CD
 
 负责 AI Framework Engineering Infrastructure、CI/CD、Benchmark 与质量体系建设，通过工程化手段提升研发效率与资源利用率。
 
@@ -85,7 +81,7 @@ C++ · Python · CUDA · CPU/GPU Architecture · AI Framework · CI/CD
 
 > 关注的不只是“把代码跑起来”，而是通过 Engineering Infrastructure 持续衡量和优化研发效率、质量与性能。
 
-### 04 · Paddle Developer Ecosystem 从 0 到 1
+## 04 · Paddle Developer Ecosystem 从 0 到 1
 
 负责 Paddle Developer Ecosystem 建设，覆盖 Framework、Distributed Training、Inference、OCR、LLM Application、AI for Science 等方向。
 
@@ -99,7 +95,7 @@ C++ · Python · CUDA · CPU/GPU Architecture · AI Framework · CI/CD
 
 > 将 Framework 能力进一步转化为开发者能够**理解、使用、贡献和参与**的生态能力。
 
-### 05 · Operator 开发标准化与生态治理
+## 05 · Operator 开发标准化与生态治理
 
 围绕 Operator 开发与维护建立系统化治理机制，从**规范设计 → 标准化 → 规模化推广**推动工程质量提升。
 
@@ -109,7 +105,7 @@ C++ · Python · CUDA · CPU/GPU Architecture · AI Framework · CI/CD
 - 推动社区开发者完成 Speculative Decoding、KV Cache 等 LLM Inference 能力建设
 - 降低 Operator Adaptation 与长期 Maintenance Cost
 
-### 06 · AI 数据、Benchmark 与模型工具链
+## 06 · AI 数据、Benchmark 与模型工具链
 
 建设面向 AI Coding、模型迁移与多语言场景的 Data、Benchmark 与 Toolchain。
 
@@ -154,7 +150,3 @@ Paddle Open Source Governance、Contributor Collaboration、Developer Growth 与
 - 博士学位论文：CNKI 引用 **50+**，下载 **7500+**
 
 ---
-
-# 我希望解决的问题
-
-我关注的不只是“把一个技术问题解决”，而是如何**理解系统、建立机制，并让技术能力能够被团队和开发者规模化复用**。
