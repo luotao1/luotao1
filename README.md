@@ -35,7 +35,7 @@
 CPU/GPU Performance Optimization · AI Operator / Kernel · AI Inference Engine · Graph Optimization · Heterogeneous Computing · Model Migration · Runtime / Toolchain · CI/CD & Engineering Infrastructure
 
 **Developer Technology & Ecosystem**  
-AI Framework Developer Experience · Open Source Governance · Developer Community · Developer Growth · Technical Enablement · Developer Tools & Benchmark · Open Dataset / Model Ecosystem · Cross-functional Technical Program · Influence Without Authority
+AI Framework Developer Experience · Open Source Governance · Developer Community · Developer Growth · Developer Tools & Benchmark · Open Dataset / Model Ecosystem · Cross-functional Technical Program · Influence Without Authority
 
 **Languages & Technologies**  
 C++ · Python · CUDA · CPU/GPU Architecture · AI Framework · CI/CD
